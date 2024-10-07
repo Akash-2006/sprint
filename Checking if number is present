@@ -1,0 +1,15 @@
+3 7 
+element:34 length:5 target:2 result:0
+7 element current
+jump1:4 length zero stop
+ 
+4 target current:0 answer
+1 current one current
+2 length one length
+3 jump1
+answer:7 one result 
+stop:9
+one:1
+zero:0
+
+1 2 3 4 5
